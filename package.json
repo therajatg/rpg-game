@@ -9,7 +9,9 @@
   "bin": {
     "rpg-game": "index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "rpg-game"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
